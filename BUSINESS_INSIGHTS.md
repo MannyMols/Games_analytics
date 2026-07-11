@@ -101,7 +101,7 @@ Using data science techniques, we grouped players into five distinct types based
 
 #### 💳 Spender
 > **Who they are:** Committed players who spend moderately but consistently.
-> **Revenue impact:** Average spend of **$49 per player**, with nearly 8 in 10 making purchases.
+> **Revenue impact:** Average spend of **£49 per player**, with nearly 8 in 10 making purchases.
 > **What they need:** Value-for-money bundles and progression incentives to keep them engaged.
 
 #### ⚔️ Grinder (Free-to-Win)
@@ -141,7 +141,7 @@ We ran a controlled experiment where half of our players had a **higher chance o
 
 **What showed positive trends but needs more data to confirm:**
 - The share of players making a purchase went from 3.6% to 3.9% (+8.2%)
-- Average spend per player went from $3.36 to $3.67 (+$0.31)
+- Average spend per player went from £3.36 to £3.67 (+£0.31)
 
 ### In Plain English
 Giving players a better chance at rare rewards made them **more engaged and more likely to still be playing a week later**. It also made them interact with the chest system more actively. The revenue indicators moved in the right direction, but we would need to run the test longer to be certain of the financial impact.
@@ -164,10 +164,10 @@ Our revenue does not come from the majority of players — it comes from a small
 
 | Player Type | Average Spend | % Who Make a Purchase |
 |---|---|---|
-| Whale | $428 | 91% |
-| Spender | $49 | 78% |
+| Whale | £428 | 91% |
+| Spender | £49 | 78% |
 | Grinder | Very low | Low |
-| Casual | $0.07 | Less than 1% |
+| Casual | £0.07 | Less than 1% |
 
 This means **protecting and nurturing our Whale and Spender segments is a top business priority.** If we lose these players, the revenue impact is immediate and significant.
 
@@ -175,10 +175,10 @@ This means **protecting and nurturing our Whale and Spender segments is a top bu
 
 | Channel | Avg. Spend per Player | Retention | Verdict |
 |---|---|---|---|
-| Apple Search Ads | $6.20 | Strong | ✅ High value |
-| Meta (Facebook/Instagram) Ads | $3.58 | Good | ✅ Solid performer |
+| Apple Search Ads | £6.20 | Strong | ✅ High value |
+| Meta (Facebook/Instagram) Ads | £3.58 | Good | ✅ Solid performer |
 | Organic (word of mouth, ASO) | Strong | Strongest | ✅ Best overall |
-| Influencer Partnerships | $2.38 | Strong | ⚠️ Good retention, lower spend |
+| Influencer Partnerships | £2.38 | Strong | ⚠️ Good retention, lower spend |
 | TikTok Ads | Lowest | Weakest | ❌ Underperforming |
 
 ### What We Recommend
