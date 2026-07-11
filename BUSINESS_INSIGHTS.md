@@ -96,7 +96,7 @@ Using data science techniques, we grouped players into five distinct types based
 
 #### 🐳 Whale
 > **Who they are:** Our highest-value players. They play regularly, own many characters, and spend significantly on in-app purchases.
-> **Revenue impact:** Average spend of **$428 per player**, with over 9 in 10 making at least one purchase.
+> **Revenue impact:** Average spend of **£428 per player**, with over 9 in 10 making at least one purchase.
 > **What they need:** VIP treatment. Exclusive offers, early access, and personalised rewards.
 
 #### 💳 Spender
@@ -111,7 +111,7 @@ Using data science techniques, we grouped players into five distinct types based
 
 #### 🎮 Casual
 > **Who they are:** Light players who dip in occasionally but have low investment in the game.
-> **Revenue impact:** Almost no spend (average $0.07).
+> **Revenue impact:** Almost no spend (average £0.07).
 > **What they need:** A reason to care more. Better onboarding and early engagement hooks.
 
 #### 🚪 Churned-Early
