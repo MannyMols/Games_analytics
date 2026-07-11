@@ -102,7 +102,7 @@ The following insights are derived from the five analytical notebooks in this pr
 | **Casual** | £0.07 | 0.8% |
 
 **Acquisition Channel LTV Proxies:**
-- **Highest LTV:** Apple Search Ads (£6.20 avg IAP), Meta Ads ($3.58 avg IAP)
+- **Highest LTV:** Apple Search Ads (£6.20 avg IAP), Meta Ads (£3.58 avg IAP)
 - **Lowest LTV:** Influencer traffic (£2.38 avg IAP) — notable contrast to Influencer's strong retention performance
 - TikTok Ads correlates with both the lowest retention and lowest monetisation metrics
 
