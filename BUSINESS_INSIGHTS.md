@@ -1,7 +1,7 @@
 # 🎮 Games Analytics — Business Insights Report
 
 **Prepared by:** Emmanuel Mologe
-**Project:** Hutch Games Analytics (Portfolio Project)
+**Project:** Games Analytics (Portfolio Project)
 **Date:** July 2026
 **Audience:** Non-technical stakeholders — Product, Marketing, and Leadership teams
 
