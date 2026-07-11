@@ -5,6 +5,20 @@ An end-to-end data analytics project exploring game performance data using Pytho
 
 ---
 
+## ⚠️ Dataset Disclosure
+
+> All datasets used in this project are **synthetically generated**, calibrated against real-world mobile gaming industry benchmarks and distributions (e.g. GameAnalytics, Liftoff Mobile Gaming Apps Report). They do not represent any real company, real players, or proprietary data. Metrics such as retention rates, IAP values, and funnel conversion rates are modelled to reflect plausible, industry-consistent patterns for educational and portfolio purposes only.
+
+| Dataset File | Description | Source Type |
+|---|---|---|
+| `players.csv` | Player profiles — platform, channel, segment, IAP spend | Synthetic |
+| `funnel_events.csv` | Tutorial and campaign chapter completion events | Synthetic |
+| `daily_activity.csv` | Daily session and playtime telemetry per player | Synthetic |
+| `loot_events.csv` | Chest open events and legendary drop outcomes | Synthetic |
+| `segments_truth.csv` | Ground-truth segment labels for ML evaluation | Synthetic |
+
+---
+
 ## 💡 Business Insights
 
 The following insights are derived from the five analytical notebooks in this project. Each section translates data findings into actionable recommendations for product, user acquisition (UA), and LiveOps teams.
