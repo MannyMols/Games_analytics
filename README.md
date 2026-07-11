@@ -23,4 +23,4 @@ exploratory data analysis (EDA), machine learning, and an interactive HTML dashb
 4. Open `dashboard/GamesAnalytics_Dashboard.html` in any browser
 
 ## Author
-Ebi Mologe — [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+Emmanuel Mologe — [LinkedIn](https://linkedin.com/in/emmanuel-mologe) | [GitHub](https://github.com/MannyMols)
